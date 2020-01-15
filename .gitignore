@@ -1,0 +1,10 @@
+*.iml
+.gradle
+/local.properties
+/build
+/gradle/
+/gradlew
+/gradlew.bat
+/.idea/
+example-wifi-direct-develop.zip
+.history

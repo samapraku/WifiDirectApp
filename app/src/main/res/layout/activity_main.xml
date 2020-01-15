@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/container_fragment"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	tools:context="com.ansere.mobile.wifidirect.MainActivity">
+
+	<Button
+		android:id="@+id/button_send"
+		android:layout_width="match_parent"
+		android:layout_height="56dp"
+		android:gravity="center"
+		android:layout_gravity="bottom"
+		android:text="@string/text_send"
+		style="@style/Base.TextAppearance.AppCompat.Button"/>
+
+</FrameLayout>

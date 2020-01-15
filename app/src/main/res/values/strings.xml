@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">wifivideo</string>
+	<string name="text_device_list_empty">No direct wifi device available :-(</string>
+	<string name="error_connection_p2p_unsupported">Wifi Direct is not supported by the other device</string>
+	<string name="error_connection_general">An unknown connection error has occurred</string>
+	<string name="error_connection_busy">The device is currently busy and cannot connect</string>
+	<string name="text_send">Send</string>
+</resources>
